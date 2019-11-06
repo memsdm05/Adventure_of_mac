@@ -9,7 +9,7 @@
 **Other**
 - Pyglet
 
-#How to Play 
+# How to Play 
 
 ![OOH a picture](cory_64x64.png)
 
@@ -28,7 +28,7 @@ _L_ | Respawn player
 Tap direction to go faster aka
 **spam _A_ to build up speed**
 
-#Other Bits and Bob
+# Other Bits and Bob
 ```python
 gravity = 0.7
 # Gravity constant
